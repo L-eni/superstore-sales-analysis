@@ -39,7 +39,7 @@ key business insights using SQL and Power BI.
 
 ## 📬 Contact
 **Leni Gustia**  
-[LinkedIn](https://www.linkedin.com/in/leni-gustia-405a40294/) · [Email](lenigustia24@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leni-gustia-405a40294/) · [Email](mailto:lenigustia24@gmail.com)
 
 ---
 © Leni Gustia 2026
