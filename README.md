@@ -19,7 +19,7 @@ key business insights using SQL and Power BI.
 1. Copiers deliver the highest ROI across all sub-categories
 2. Central is the only loss-making region — driven by 22% discount rate
 3. Furniture generates a net loss (-$18K) — Tables is the biggest drag
-4. Discounts above 20% consistently yield negative profit
+4. Discounts above 30% consistently lead to losses
 5. Corporate segment is more profitable per dollar than Consumer
 
 ## 📁 Files
